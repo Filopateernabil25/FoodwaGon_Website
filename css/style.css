@@ -1,0 +1,24 @@
+.container i{
+    color: #FFB30E;
+}
+#container-fluid-one{
+    height: 620px;
+    background-image: url(img/Header.png);
+}
+.col-lg-6{
+    height: 55vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#container-fluid{
+    height: 520;
+    background-image:linear-gradient(to bottom ,#FFCE67 ,white,white);
+
+}
+#container-fluid h1{
+    color: #F17228;
+}
+#carouselExample{
+    margin-top: 150px;
+}
